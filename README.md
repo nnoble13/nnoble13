@@ -1,7 +1,7 @@
 ### Hi, I'm Asia 👋 
 ---
 
-I’m a ✨ _recent_ ✨ Data Science bootcamp graduate with a [background in the creative tech industry](https://www.popappshop.io/), experience in management and operations, looking to deepen my knowledge of machine learning through implementing fun (and sometimes useful) projects. I am an autodidact that enjoys applying creative solutions to data-driven environments, making the leap from no-code to mo' code. I enjoy using 🐍 Python and SQL, and love visualizing  👁️👄👁️ it with Heroku, Streamlit, HTML, and CSS.
+I’m a ✨ _recent_ ✨ Data Science bootcamp graduate and DS teaching assistant with a [background in the creative tech industry](https://www.popappshop.io/), experience in management and operations, looking to deepen my knowledge of machine learning through implementing fun (and sometimes useful) projects. I am an autodidact that enjoys applying creative solutions to data-driven environments, making the leap from no-code to mo' code. I enjoy using 🐍 Python and SQL, and love visualizing  👁️👄👁️ it with Heroku, Streamlit, HTML, and CSS.
 
 ---
 - 🌦️ I’m currently working on an app that predicts my perfect week based on data collected over five years
